@@ -24,7 +24,7 @@ Here is an example BLT file
 ```
 3 2
 12 1 0
-88 1 2 3 0
+88 1 3 2 0
 14 2 3 0
 8 3 0
 0
@@ -39,7 +39,7 @@ How to read it:
 ```
 3 2                 # There are 3 candidates running for 2 seats
 12 1 0              # 12 Bullet votes for candidate 1 were cast
-88 1 2 3 0          # 88 Ballots preferring 1 to 2 and 2 to 3 were cast
+88 1 3 2 0          # 88 Ballots preferring 1 to 3 and 3 to 2 were cast
 14 2 3 0
 8 3 0
 0                   # End of the ballots
