@@ -94,6 +94,7 @@ How to read it:
 - No Referendum, Maintain Union, Pro-Brexit (NRMUPB)
 - Orkney Manifesto Group (OMG)
 - Piarate (Pir)
+- RISE (RISE)
 - Rubbish (Rubbish)
 - Scotland Independent Network (ScIN)
 - Scottish Christian (SC)
@@ -114,3 +115,4 @@ How to read it:
 - Volt UK (Volt)
 - West Dunbartonshire Community (WDuns)
 - Women's Equality Party (WEP)
+- Worker Party of Britain (WPB)
